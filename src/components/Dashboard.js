@@ -71,6 +71,14 @@ export default function Dashboard() {
       </div>
       <br></br>
       <List />
+      <br />
+      <br />
+      <br />
+      <br />
+      <p>
+        * nb = Fitur yang ada sudah bisa digunakan semua, Namun belum membuat
+        fitur Add, Edit dan Delete
+      </p>
     </>
   );
 }
