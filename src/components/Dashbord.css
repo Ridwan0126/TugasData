@@ -1,0 +1,23 @@
+.logout {
+  color: white;
+  background-color: blue;
+  margin-left: 150px;
+}
+.table-list {
+  width: 400px;
+  /* color: white; */
+}
+
+/* h1 {
+  color: white;
+} */
+
+.table-list td,
+.table-list th {
+  border: 1px solid black;
+}
+
+.logout {
+  background-color: blue;
+  width: 50px;
+}
